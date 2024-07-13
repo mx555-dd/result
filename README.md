@@ -1,2 +1,4 @@
 # result
 This is my answer
+第一题的代码在First.py中，在做第一题时request请求时遇到了SSL证书问题，下载证书后还是无法解决，所以我只做了第三布和第四步请谅解。生成的csv文件名为treasury_bonds_2023_from_api.csv
+第二题代码在Second.py
